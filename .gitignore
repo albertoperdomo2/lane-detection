@@ -1,0 +1,4 @@
+build/**
+!build/build_nocache.sh
+data/*.zip
+data/*.mp4
